@@ -23,7 +23,7 @@ Explore the interactive dashboards for a visual representation of the data:
 Learn more about the insights from the HR data through this storytelling presentation:
 
 - **[Storytelling: Providing Employee Insights for HR](https://public.tableau.com/views/Storytelling-ProvidingEmployeesInsightsforHR/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)**: A story-driven narrative explaining the insights derived from the data.
-
+- **[Project implementation to Insights for HR](https://medium.com/@popsy_aussie/capstone-project-empowering-hr-decision-making-with-a-data-driven-insights-dashboard-a7376e42ad8)**: How did I this project ? : By doing a data analysis project and providing insights to the HR of the corporate company. 
 ---
 
 ## 🔧 Tools Used:
