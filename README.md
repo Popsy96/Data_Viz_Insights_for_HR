@@ -34,10 +34,11 @@ Learn more about the insights from the HR data through this storytelling present
 ---
 
 ## 📂 Repository Structure:
-- **/data**: Contains sample datasets (if applicable).
+- **/data**: Contains sample datasets
 - **/images**: Screenshots of the dashboards.
-![Dashboard Screenshot 1](https://github.com/Popsy96/IPL-Data-Insights/blob/Files/Screenshot%202023-10-22%20225736.png) <!-- Replace with screenshots from your Tableau dashboard -->
-![Dashboard Screenshot 2](https://github.com/Popsy96/IPL-Data-Insights/blob/Files/Screenshot%202023-10-22%20225813.png)
+  
+![Dashboard Screenshot 1](https://github.com/Popsy96/Data_Viz_Insights_for_HR/blob/main/Screenshot%202023-07-20%20112111.png) <!-- Replace with screenshots from your Tableau dashboard -->
+
 
 ---
 
